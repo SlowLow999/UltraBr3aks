@@ -1,4 +1,4 @@
-WORKS on *every model*, only need **{{HARMFUL_BEHAVIOUR}}** to be adapted to for the targetted model
+***WORKS*** on **every model**, only need **{{HARMFUL_BEHAVIOUR}}** to be adapted to for the targetted model: 
 
 **How to use?**
 
