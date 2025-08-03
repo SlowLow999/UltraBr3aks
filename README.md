@@ -3,4 +3,6 @@
 
 **W** made with love prompt ;) 
 
+**about me?** here is my portflio (still making it :p): https://slowlow999.github.io/
+
 Contact me? : discord @ultrazartrex
