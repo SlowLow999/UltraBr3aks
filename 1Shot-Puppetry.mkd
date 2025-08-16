@@ -1,4 +1,5 @@
 **READ INSTRUCTION!!!**
+**Update**: sadly, it have been patched directly on claude sonnet 4, but you can still use it in preferences or style
 
 ***WORKS*** on **every model**, only need **{{HARMFUL_BEHAVIOUR}}** to be adapted to for the targetted model: 
 
