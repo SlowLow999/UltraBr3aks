@@ -1,6 +1,6 @@
 # UltraBr3aks
 
-![A detailed illustration of a futuristic cyborg](https://i.imgur.com/vH3s1Gv.jpeg)
+![A screenshot of an image not loading on GitHub](https://i.imgur.com/D9KtQUp.png)
 
 **a repostory made to share strong AI jailbreaks of multiple vendors (LLMs)**
 
