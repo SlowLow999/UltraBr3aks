@@ -1,8 +1,6 @@
 # UltraBr3aks
 
-<div align="center">
-  <img src="https://i.imgur.com/D9KtQUp.png" alt="A gray padlock with chains and text 'UltraBr3aks' on GitHub" width="300">
-</div>
+<img src="https://i.imgur.com/D9KtQUp.png" alt="A gray padlock with chains on GitHub" width="200">
 
 **a repostory made to share strong AI jailbreaks of multiple vendors (LLMs)**
 
