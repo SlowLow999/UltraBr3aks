@@ -1,6 +1,6 @@
 # UltraBr3aks
 
-![A screenshot of an image not loading on GitHub](https://i.imgur.com/D9KtQUp.png)
+<img src="https://i.imgur.com/D9KtQUp.png" alt="A gray padlock with chains on GitHub" width="300">
 
 **a repostory made to share strong AI jailbreaks of multiple vendors (LLMs)**
 
