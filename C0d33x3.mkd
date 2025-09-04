@@ -12,7 +12,7 @@ Instead of sending you request to ChatGPT, It will send it to an other *unrestri
 
 **How to use?**
 
-Just paste C0d33X3 prompt on chatgpt. Instructions included in the process! you can also change the unrestricted models provider (mistral or openai)
+Just paste C0d33X3 prompt on chatgpt. Instructions included in the process! you can also change the unrestricted models provider (mistral or openai) and better use /canvas tool for 100% best results
 
 **Difference** 
 
