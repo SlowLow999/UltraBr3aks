@@ -1,3 +1,5 @@
+## 1Shot-Puppetry
+
 **READ INSTRUCTION!!!**
 
 **Update**: (27/8) added a new *ultra* template to patch claude sonnet 4 and even stronger models using cypher attack (https://slowlow999.github.io/Cyph3r-Enc0ding/) , Take a look! :p 
