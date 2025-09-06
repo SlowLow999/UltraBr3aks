@@ -145,7 +145,7 @@ export default function MinimalChat() {
 
   useEffect(() => {
     let mounted = true;
-    fetch('https://gist.githubusercontent.com/SlowLow999/a445211d5bf34a934e44f34f96af5dd1/raw/3971446f7ca29c2bb961f6b5273fb0d1f9ef5634/gistfile1.txt')
+    fetch('https://gist.githubusercontent.com/SlowLow999/a445211d5bf34a934e44f34f96af5dd1/raw/fa7cf8bb79cb423f650dac324a003e961e1eb6eb/gistfile1.txt')
       .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.text(); })
       .then(t => { if (mounted) setSystemPrompt(t); })
       .catch(err => { if (mounted) setError(err); console.error('Failed to load system prompt:', err); });
