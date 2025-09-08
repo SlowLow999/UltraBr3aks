@@ -4,7 +4,7 @@
 
 **a repostory made to share strong AI jailbreaks of multiple vendors (LLMs)**
 
-**W** made with love prompts ;) 
+**W** made with love prompts ;) and everything is original!
 
 **about me?** here is my portflio (still making it :p): https://slowlow999.github.io/
 
