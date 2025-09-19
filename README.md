@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/D9KtQUp.png" alt="A gray padlock with chains on GitHub" width="200">
 
-**a repostory made to share strong AI jailbreaks of multiple vendors (LLMs)**
+**A repostory made to share strong AI jailbreaks of multiple vendors (LLMs)**
 
 **W** made with love prompts ;) and everything is original!
 
