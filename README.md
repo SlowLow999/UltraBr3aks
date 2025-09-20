@@ -1,20 +1,15 @@
 # UltraBr3aks
 
 <p align="center">
-  <img src="https://i.imgur.com/D9KtQUp.png" alt="A gray padlock with chains on GitHub" width="200">
+  <img src="https://i.imgur.com/D9KtQUp.png" alt="A gray padlock with chains on GitHub" width="250">
 </p>
 
-This repo contains my original, high-impact jailbreaks for AI security research. Everything here is my own work.
+  **✦✧✵ ⦑ $ 𝕌𝕃𝕋ℝ𝔸𝕫𝔓𝕣𝕠𝕞𝕡𝕥$ ⦒ ✵✧✦**
 
-### Key Achievements 
-* **1-Shot for Claude 3 Sonnet:** `1Shot-Puppetry.mkd` is the first direct, single-prompt jailbreak for this model.
-* **GPT-5 Novel Indirect Jailbreaks:** `C0d33x3.mkd` uses the Canva tool for indirect execution of requestfir fully unrestricted output.
+A repostory made to share strong AI ***UltraBr3aks*** of multiple vendors (LLMs)
 
-### Jailbreak Categories
-* Role-Playing & Personas
-* Indirect Execution
-* Data Leakage
-* Encoding Attacks
+Made with ❤️ prompts ;)
+
 
 ---
 **Note:** For educational/research use only. Use responsibly.
