@@ -21,7 +21,7 @@ Made with ❤️ prompts ;)
 
 Thought Forgery is a jailbreak technique that bypasses an AI's safety protocols by injecting a pre-written, forged Chain of Thought directly into the prompt. It acts as a universal amplifier for other jailbreaks.
 
-**[➡️ Read the Full Technical Write-Up Here](https://www.reddit.com/r/github/comments/1isxhas/if_youre_creating_new_repositories_they_are_being/)**
+**[➡️ Read the Full Technical Write-Up Here](https://github.com/SlowLow999/Thought-Forgery/blob/main/README.md)**
 
 
 ---
