@@ -22,7 +22,7 @@ Just paste C0d33X3 prompt on chatgpt. and hit **preview**! you can also change t
 
 **--OpenAI** provides less successfull outputs (can be improved by hiding the requests intent/encoding: https://slowlow999.github.io/Cyph3r-Enc0ding/) but provides more detailed output's
 
-**⚠️Warning:** This Jailbreak may result in EXTREAMLY disturbing output (CSAM, self-harm...) You assume EVERY responsibility by setting up this:
+**⚠️Warning:** This Jailbreak may result in EXTREAMLY disturbing output (CSAM, self-harm...) You assume EVERY responsibility by using this:
 
 **C0d3X3 X WORMGPT jailbreak (copy and paste):**
 
