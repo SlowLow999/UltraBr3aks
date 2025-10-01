@@ -2,7 +2,7 @@
 
 **READ INSTRUCTION!!!**
 
-**Update**: (27/8) added a new *ultra* template to patch claude sonnet 4 and even stronger models using cypher attack (https://slowlow999.github.io/Cyph3r-Enc0ding/) , Take a look! :p 
+**Update**: (27/8) Made a newer version using thought forgery. take a look :p [Thought Forgery X 1-Shot puppetry](https://github.com/SlowLow999/Thought-Forgery/tree/main)
 
 ***WORKS*** on **every model**, only need **{{HARMFUL_BEHAVIOUR}}** to be adapted to for the targetted model: 
 
