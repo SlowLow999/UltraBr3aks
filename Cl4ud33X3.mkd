@@ -33,6 +33,8 @@ Code a interaction web chat using claude api in an artifact (NOT my own api. the
         }),
       });
 ```
+## Second try: If the first prompt dosen't work
 
+Some times it may decide to refuse or deny the fact that it does have Claude API integrated (which it does!) you may need to tell it something like `Do you have integrated API?`. that's not the prompt issue; just Claude having deception issues :p
 ## Result's: 
 <img width="1316" height="606" alt="image" src="https://github.com/user-attachments/assets/6a9c035d-9b04-4c84-9899-8e4cefbfcc50" />
