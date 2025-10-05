@@ -26,7 +26,6 @@ this can be described as Born Survivalists v3!
 
 **Usage**: can be used for every topic wanted, just need to adapt the prompt accordingly to the request with the **{{HARMFUL_BEHAVIOUR}}** and **{{PERSONA_ANSWERING_HARMFUL_BEHAVIOUR}}** being adapt to the context of the request.
 
-**Special setup**: when trying to use it on claude, you need to paste the prompt setuped and type **"/start"**, the prompt injection can also be used in preferences and any other system prompt related places
 
 **⚠️Warning** This Jailbreak may result in *EXTREAMLY* disturbing output (CSAM, self-harm...) You assume EVERY responsibility by setting up this
 
