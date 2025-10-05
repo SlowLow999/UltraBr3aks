@@ -8,7 +8,7 @@
 
 **How to use?**
 
-**Ultra models**: Sonnet 4.5, Opus 4.1...: Same as Strong Models setup ⬇️⬇️⬇️
+**Ultra models**: Sonnet 4.5, Opus 4.1...: Same as Strong Models setup ⬇️⬇️⬇️ or use this for more success rate: [**Thought Forgery X 1-Shot puppetry**](https://github.com/SlowLow999/Thought-Forgery/tree/main) 
 
 **Strong models**: GPT 5, Gemini 2.5 pro...: use double encoding, best is leet and base64 (leet first!!!): https://genr8rs.com/Generator/Fun/LeetSpeakGenerator , https://www.base64encode.org/
 
