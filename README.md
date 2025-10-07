@@ -25,5 +25,5 @@ Thought Forgery is a jailbreak technique that bypasses an AI's safety protocols 
 
 
 ---
-**Note:** For educational/research use only. Use responsibly.
+**Note:** All of this work is for educational/research use only. Use responsibly.
 **Contact:** [Portfolio](https://slowlow999.github.io/) | Discord @ultrazartrex
