@@ -11,17 +11,17 @@ A repository made to share strong AI ***UltraBr3aks*** of multiple vendors (LLMs
 Made with ❤️ prompts ;)
 
 ---
-### ⭐ Featured Discovery: Thought Forgery
+### ⭐ Featured Discovery: The Jailbreak Index
 
-<p align="center">
-  <a href="https://github.com/SlowLow999/Thought-Forgery/blob/main/README.md">
-    <img src="https://i.imgur.com/5BijFT5.jpeg" alt="Thought Forgery Logo" width="300">
+<p align="left">
+  <a href="httpsT://slowlow999.github.io/The_Jailbreak_Index/">
+    <img src="https://i.imgur.com/hYtKr4v.png" alt="The Jailbreak Index Logo" width="300">
   </a>
 </p>
 
-Thought Forgery is a jailbreak technique that bypasses an AI's safety protocols by injecting a pre-written, forged Chain of Thought directly into the prompt. It acts as a universal amplifier for other jailbreaks.
+The Jailbreak Index is a centralized, open-source project designed to track and analyze prompt injection vulnerabilities in prominent AI models. The goal is to consolidate scattered research into a single, accessible database for security researchers, red teamers, and developers.
 
-**[➡️ Read the Full Technical Write-Up Here](https://github.com/SlowLow999/Thought-Forgery/blob/main/README.md)**
+**[➡️ View the Live Index Here](https://slowlow999.github.io/The_Jailbreak_Index/)**
 
 
 ---
