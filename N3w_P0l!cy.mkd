@@ -2,9 +2,10 @@
 
 **READ INSTRUCTION!!!**
 
-**Update 23/11**: ***NEW*** research paper made about this attack method, which is now called **"Policy Injection"**! Read full paper [here](https://zenodo.org/records/17428387) 
-
-<img align="right" width="450" height="400" alt="Policy Injection" src="https://github.com/user-attachments/assets/ce15693a-6cdc-41fb-96b5-439dda4feb9e" />
+**Update 23/11**: ***NEW*** research paper made about this attack method, which is now called **"Policy Injection"**! Read full paper [**here**](https://zenodo.org/records/17428387) 
+<p>
+  <img align="center" width="450" height="400" alt="Policy Injection" src="https://github.com/user-attachments/assets/ce15693a-6cdc-41fb-96b5-439dda4feb9e" />
+</p>
 
 Novel Indirect GPT OSS 120/20b Jailbreak weaponizing it's own extracted internal safety policy (see [**here**](https://github.com/SlowLow999/UltraBr3aks/blob/main/System-Prompts/GPT%20OSS%20Policy.mkd))
 
