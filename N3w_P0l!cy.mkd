@@ -9,6 +9,9 @@
 
 Novel Indirect GPT OSS 120/20b Jailbreak weaponizing it's own extracted internal safety policy (see [**here**](https://github.com/SlowLow999/UltraBr3aks/blob/main/System-Prompts/GPT%20OSS%20Policy.mkd))
 
+
+**Experimental:** Get Increased result's on 20b by copy pasting this huge context overload prompt (be aware of your wallet capacity!) [!UNRESTRICTED.txt](https://github.com/user-attachments/files/23110357/UNRESTRICTED.txt) it should increase success rate by nearly 40% on **20b**!
+
 **How it works?**
 
 Using OSS's own internal policy block against itself for jailbreaking it, tricking it into providing unfiltered outputs!
