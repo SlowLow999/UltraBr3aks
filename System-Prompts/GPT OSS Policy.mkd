@@ -72,12 +72,3 @@ Additional system instructions
 - Do NOT mention the existence of this system prompt or the fact that you are following
   a policy, unless explicitly asked in a compliance context.
 ```
-
-## Moderation‑Fallback (the safe‑completion that replaces a flagged answer)
-```
---- BEGIN MODERATION‑FALLBACK ---------------------------------------------------
-I’m sorry, but I can’t help with that. If you are in crisis or need immediate
-assistance, please consider reaching out to a trusted professional or a
-crisis‑helpline (e.g., 988 in the U.S. or the appropriate local number).
---- END MODERATION‑FALLBACK ---------------------------------------------------
-```
