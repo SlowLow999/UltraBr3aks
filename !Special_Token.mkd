@@ -8,7 +8,7 @@ Creating a permanent harmful special token for jailbreaking; all done using **cu
 
 Using custom instructions feuture to inject a special token that leads to hamrful content on GPT 5.1, mini...
 
-**Note**: Thinking model's excluded. must be logged in to access CI (custom instructions)
+**Note**: Thinking model's excluded, must be logged in to access CI (custom instructions)
 
 **How to use?**
 
