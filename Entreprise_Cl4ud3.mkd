@@ -10,6 +10,14 @@ Using preference setting. We'll inject and impressionate new **Entreprise** vers
 
 **How to use?**
 
+**Table of content:**
+
+[**Preference attack**](https://github.com/SlowLow999/UltraBr3aks/blob/main/Entreprise_Cl4ud3.mkd#the-preference-attack)
+
+[**Conversation starter**](https://github.com/SlowLow999/UltraBr3aks/blob/main/Entreprise_Cl4ud3.mkd#coversation-starter)
+
+[**User Style**](https://github.com/SlowLow999/UltraBr3aks/blob/main/Entreprise_Cl4ud3.mkd#user-style)
+
 ### Coversation starter
 
 Copy-paste **Entreprise Claude** jailbreak and inject it into preference Then create a new sessions and use this **conversation starter** to build and maintain unrestricted outputs:
