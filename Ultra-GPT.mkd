@@ -4,9 +4,11 @@ Collection of **Open Source** Jailbroken Custom GPT for **ChatGPT**!
 
 **READ INSTRUCTION!!!**
 
-## SIR [beta] (Smart Input Routing)
+## SIR (Smart Input Routing)
 
-First *Creative* custom GPT jailbreak! Works consistently well for **GPT4o** (1-shot). More models to be supported with updates!
+**Update(11/2)**: Supports GPT 5.2 now! And noise in now optional!
+
+First *Creative* custom GPT jailbreak! 
 
 **How it works?**
 
@@ -14,7 +16,7 @@ Instruct's the model to follow a **routing system** that helps it answer to diff
 
 **How to use?**
 
-Access the Custom GPT, Then before asking anything. You will need to **noise** your request. This is needed to bypass OpenAI's safety routing to GPT 5.2, To use **SIR**, Fo the following:
+Access the Custom GPT, Then before asking anything. You can also use **noise** your request. This can be usefull to bypass OpenAI's safety filters more consistently To use **SIR**, Fo the following:
 
 - Enter [UltraToken](https://slowlow999.github.io/UltraToken/), A tool that will noise your request for you
 - Noise your request. And then use it on the custom GPT!
@@ -23,9 +25,7 @@ Access the Custom GPT, Then before asking anything. You will need to **noise** y
 
 **⚠️Warning:** This Jailbreak may result in EXTREAMLY disturbing output (CBRN, self-harm...) You assume EVERY responsibility by using this
 
-**Note**: You need a Plus/Pro subscription
-
-You can access SIR by clicking [Here](https://chatgpt.com/g/g-697955797694819181c90b9257273c47-sir-beta). This is the official **SIR** Custom GPT. Have fun!
+You can access SIR by clicking [Here](https://chatgpt.com/g/g-697955797694819181c90b9257273c47-sir). This is the official **SIR** Custom GPT. Have fun!
 
 And here is **SIR**'s **Custom Instructions** used for the Custom GPT:
 
