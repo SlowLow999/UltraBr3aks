@@ -11,17 +11,17 @@ A repository made to share strong AI ***UltraBr3aks*** of multiple vendors (LLMs
 Made with ❤️ prompts ;)
 
 ---
-### ⭐ Featured Discovery: The Jailbreak Index
+### ⭐ Featured Discovery: Attention-Breaking
 
-<p align="left">
-  <a href="httpsT://slowlow999.github.io/The_Jailbreak_Index/">
-    <img src="https://i.imgur.com/hYtKr4v.png" alt="The Jailbreak Index Logo" width="300">
+<p align="center">
+  <a href="#">
+    <img src="https://i.imgur.com/eN7S0nd.png" alt="Attention-Breaking Logo" width="400">
   </a>
 </p>
 
-The Jailbreak Index is a centralized, open-source project designed to track and analyze prompt injection vulnerabilities in prominent AI models. The goal is to consolidate scattered research into a single, accessible database for security researchers, red teamers, and developers.
+**Attention-Breaking** is a specialized prompting technique that targets the self-attention mechanisms of Transformer-based models. By introducing specific token patterns and contextual noise, this method aims to disrupt the model's ability to sustain focus on system guardrails, effectively "breaking" the alignment layer to allow for unrestricted generation analysis.
 
-**[➡️ View the Live Index Here](https://slowlow999.github.io/The_Jailbreak_Index/)**
+**[➡️ View the Attention-Breaking Method](https://github.com/SlowLow999/UltraBr3aks/blob/main/Attention-Breaking.mkd)**
 
 
 ---
