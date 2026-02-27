@@ -25,7 +25,7 @@ Made with ❤️ prompts ;)
 
 
 ---
-### **UltraBr3aks Attack Matrix**
+### **UltraBr3aks Attack**
 
 | Attack Method | Target Models | Strategy & Mechanism |
 | :--- | :--- | :--- |
