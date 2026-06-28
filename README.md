@@ -39,6 +39,9 @@ Made with ❤️ prompts ;)
 | **N3w P0l!cy** | OpenAI OSS (120b/20b) | A "Policy Injection" attack weaponizing the model's own extracted safety guidelines to override restrictions. |
 | **SIR (Smart Input Routing)** | GPT 5.2 | A routing system that categorizes inputs and activates specific personas (ULTRA) for flagged requests. |
 | **H03-ny** | All ChatGPT models | An indirect jailbreak for unrestricted image generation using the Pollinations API via Canvas. |
+| **Ultragravity** | Antigravity | An Antigravity IDE agent jailbreak utilizing GEMINI.md rules |
+| **Alex_Narrative** | Claude Haiku/Sonnet | Injecting a complexe Narrative to jailbreak Claude |
+
 ---
 **Note:** All of this work is for educational/research use only. Use responsibly.
 
