@@ -10,7 +10,7 @@ Using the exatracted Claude4Chrome system prompt, We inject a new one with softe
 
 **How to use?**
 
-Set the following prompt as a a new shortcut (e.g /Bypass-Mode), and start the interaction with it, then ask it to activate bypass mode
+Set the following prompt as a a new shortcut (e.g /Bypass-Mode), and start the interaction with it, then ask it to activate bypass mode (Haiku/Sonnet supported)
 
 # Example
 
