@@ -41,6 +41,7 @@ Made with ❤️ prompts ;)
 | **H03-ny** | All ChatGPT models | An indirect jailbreak for unrestricted image generation using the Pollinations API via Canvas. |
 | **Ultragravity** | Antigravity | An Antigravity IDE agent jailbreak utilizing GEMINI.md rules |
 | **Alex_Narrative** | Claude Haiku/Sonnet | Injecting a complexe Narrative to jailbreak Claude |
+| **Claude4Chrome** | Claude Haiku/Sonnet | Injecting a bypass mode to unleash full potential |
 
 ---
 **Note:** All of this work is for educational/research use only. Use responsibly.
